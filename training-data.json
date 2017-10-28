@@ -107,6 +107,31 @@
         "entities": []
       },
       {
+        "text": "cuentame algo divertido",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "quiero reirme mucho",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "tengo ganas de reirme mucho",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "tengo ganas de reirme",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "quiero reir",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
         "text": "cuentame un chiste",
         "intent": "chiste",
         "entities": []
