@@ -1,0 +1,101 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "nadie me quiere",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "ella no me hace caso!",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "que hago para enamorarla?",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "quiero ser feliz ",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "que es el amor",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "quiero bajarle la luna",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "quiero que me haga caso",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "la amo con todo mi corazon",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "que me aconsejas para el amor?",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "Estoy aburrido",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "me siento algo triste, me puedes ayudar",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "me muestras algo divertido?",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "contame algo divertido",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chiste",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "del",
+        "intent": "none",
+        "entities": []
+      },
+      {
+        "text": "para",
+        "intent": "none",
+        "entities": []
+      },
+      {
+        "text": "a",
+        "intent": "none",
+        "entities": []
+      },
+      {
+        "text": "es",
+        "intent": "none",
+        "entities": []
+      },
+      {
+        "text": "",
+        "intent": "none",
+        "entities": []
+      }
+    ]
+  }
+}
