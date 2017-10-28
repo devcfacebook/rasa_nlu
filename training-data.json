@@ -7,6 +7,46 @@
         "entities": []
       },
       {
+        "text": "qué piensas del amor",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "qué debo hacer para que ella me ame?",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "necesito una novia!!",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "sin ella la vida no tiene sentido alguno",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "estoy triste, ella se fue con otro",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "quisiera que ella me quisiera como yo la quiero a ella",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "ayudame a ser feliz con ella",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
+        "text": "estoy seguro de que ella no me ama",
+        "intent": "consejos-amor",
+        "entities": []
+      },
+      {
         "text": "ella no me hace caso!",
         "intent": "consejos-amor",
         "entities": []
@@ -72,6 +112,41 @@
         "entities": []
       },
       {
+        "text": "cuentame un chiste, por favor",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "cuentame un chiste, please",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "dime un chiste",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "por favor, dime algo gracioso",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "quiero dejar de estar aburrido",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "es hora de una broma",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
+        "text": "muestrame algo divertido",
+        "intent": "chiste",
+        "entities": []
+      },
+      {
         "text": "del",
         "intent": "none",
         "entities": []
@@ -88,6 +163,11 @@
       },
       {
         "text": "es",
+        "intent": "none",
+        "entities": []
+      },
+      {
+        "text": " ",
         "intent": "none",
         "entities": []
       },
