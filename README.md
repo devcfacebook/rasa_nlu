@@ -3,9 +3,9 @@
 ### Installation
 Es requisito tener instalado al menso `python 2.7`
 ```
-sudo pip install rasa_nlu
 sudo apt-get install build-essential libssl-dev libffi-dev python-dev
-sudo pip install -U spacy
+sudo pip install rasa_nlu
+sudo pip install -r alt_requirements/requirements_full.txt
 sudo python -m spacy download es
 ```
 
